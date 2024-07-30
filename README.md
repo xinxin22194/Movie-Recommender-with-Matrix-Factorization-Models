@@ -1,0 +1,2 @@
+- Constructed SVD based matrix factorization models. Trained and tested using MovieLens datasets with hyperparameter tuning.
+- Conducted error analysis and compared the performance of different SVD based models on different MovieLens datasets.
